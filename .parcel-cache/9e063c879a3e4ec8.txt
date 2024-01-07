@@ -1,0 +1,17 @@
+16
+60C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\01_basics133484944037480995 1
+76C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\NamasteyJS\01\jshtml.html133484991791416086 0
+60C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\README.md133484944037480995 0
+62C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\function.js133484944037480995 0
+61C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\NamasteyJS133484987913594963 1
+74C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\NamasteyJS\01\index.css133484992306036503 0
+69C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\project\hungry.jpg133489358868735630 0
+65C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\project\app.js133489365093651687 0
+58C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\project133489358867645440 1
+69C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\project\index.html133489347395756929 0
+68C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\project\style.css133489373891128533 0
+64C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\NamasteyJS\01133484992251416918 1
+72C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\NamasteyJS\summary.md133485028497463120 0
+71C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\NamasteyJS\01\app.js133485012800771122 0
+79C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\NamasteyJS\01\basichtml.html133484977788040562 0
+68C:\Users\Akanksha\Desktop\NYASHA_SYSTEM\JavaScript\01_basics\test.js133484944037480995 0
